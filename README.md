@@ -1,6 +1,6 @@
 ## Formal Definition 
  
-	$ 10X makes sth 10 times better, 0X makes sth fail really badly if not completely)
+	$ 10X makes sth 10 times better, 0X makes sth fail really badly/completely
  	$ ultra simple and effective framework (language with term and syntax) to identify and talk about
 	- key value proposition 10Xs and 
 	- key risk factors 0Xs of the 10Xs
@@ -21,9 +21,9 @@
 
 ## Terminology and  Syntax 
 	- 10X: 10 times better than state-of-the-art, read as ten-x
-	- 0X: fail really badly if not completely, read as zero-x/o-x
+	- 0X: fail really badly/completely, read as zero-x
 	- 10X-: some noteworthy value proposition that are not as innovative as 10X, read as ten-x-minus
-	- 0X+: some noteworthy risk factors that are not as destructive as the 0X, read as zero-x-plus/o-x-plus
+	- 0X+: some noteworthy risk factors that are not as destructive as the 0X, read as zero-x-plus
 	- 1000X: a composite value proposition of three 10X, read as thousand-x
 	- —0X: remove a 0X, either validated or incorrectly defined, read as remove-0X
 	- ++0X: add a OX, newly surfaced from system or missed therefore., read as add-0X
